@@ -1,3 +1,4 @@
+Buying_Cost,Maintainance_Cost,Number_of_doors,Number_of_Passenger,Luggage_Space,Safety_Features,How_is_the_deal
 vhigh,vhigh,2,2,small,low,Bad_deal
 vhigh,vhigh,2,2,small,med,Bad_deal
 vhigh,vhigh,2,2,small,high,Bad_deal
